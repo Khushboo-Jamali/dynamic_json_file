@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Rora",
+        "email": "rtadlow0@guardian.co.uk",
+        "password": "139"
+    },
+    {
+        "id": "2",
+        "name": "Frasco",
+        "email": "fcottell1@hubpages.com",
+        "password": "95846"
+    },
+    {
+        "id": "3",
+        "name": "Henrietta",
+        "email": "hcostellow2@archive.org",
+        "password": "34975"
+    },
+    {
+        "id": "4",
+        "name": "Tades",
+        "email": "tscarsbrooke3@google.co.uk",
+        "password": "475"
+    },
+    {
+        "id": "5",
+        "name": "Robinson",
+        "email": "rsillwood4@chronoengine.com",
+        "password": "47875"
+    },
+    {
+        "id": "6",
+        "name": "Valene",
+        "email": "vpaviour5@weebly.com",
+        "password": "947"
+    }
+]
